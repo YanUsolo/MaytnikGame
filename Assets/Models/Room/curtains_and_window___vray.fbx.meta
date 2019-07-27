@@ -1,0 +1,135 @@
+fileFormatVersion: 2
+guid: 015e5a075f0b3dc4ca29efd0a8f7fe23
+timeCreated: 1544640172
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: curtains_and_window__001
+    100002: curtains_and_window__002
+    100004: curtains_and_window__003
+    100006: curtains_and_window__004
+    100008: curtains_and_window__005
+    100010: curtains_and_window__006
+    100012: curtains_and_window__007
+    100014: curtains_and_window__008
+    100016: //RootNode
+    400000: curtains_and_window__001
+    400002: curtains_and_window__002
+    400004: curtains_and_window__003
+    400006: curtains_and_window__004
+    400008: curtains_and_window__005
+    400010: curtains_and_window__006
+    400012: curtains_and_window__007
+    400014: curtains_and_window__008
+    400016: //RootNode
+    2100000: curtains_and_window__textile
+    2100002: curtains_and_window__wall
+    2100004: curtains_and_window__rama
+    2100006: curtains_and_window__glass
+    2100008: curtains_and_window__metal
+    2300000: curtains_and_window__001
+    2300002: curtains_and_window__002
+    2300004: curtains_and_window__003
+    2300006: curtains_and_window__004
+    2300008: curtains_and_window__005
+    2300010: curtains_and_window__006
+    2300012: curtains_and_window__007
+    2300014: curtains_and_window__008
+    3300000: curtains_and_window__001
+    3300002: curtains_and_window__002
+    3300004: curtains_and_window__003
+    3300006: curtains_and_window__004
+    3300008: curtains_and_window__005
+    3300010: curtains_and_window__006
+    3300012: curtains_and_window__007
+    3300014: curtains_and_window__008
+    4300000: curtains_and_window__001
+    4300002: curtains_and_window__002
+    4300004: curtains_and_window__003
+    4300006: curtains_and_window__004
+    4300008: curtains_and_window__005
+    4300010: curtains_and_window__006
+    4300012: curtains_and_window__007
+    4300014: curtains_and_window__008
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

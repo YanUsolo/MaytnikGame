@@ -1,0 +1,210 @@
+fileFormatVersion: 2
+guid: 9266541e800d5634b9e7dd45ac155965
+timeCreated: 1544658296
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Camera
+    100002: //RootNode
+    100004: Head
+    100006: Head_end
+    100008: Hips
+    100010: Lamp
+    100012: LeftArm
+    100014: LeftFingerBase
+    100016: LeftFoot
+    100018: LeftForeArm
+    100020: LeftHand
+    100022: LeftHandFinger1
+    100024: LeftHandFinger1_end
+    100026: LeftLeg
+    100028: LeftShoulder
+    100030: LeftToeBase
+    100032: LeftToeBase_end
+    100034: LeftUpLeg
+    100036: LHipJoint
+    100038: LowerBack
+    100040: LThumb
+    100042: LThumb_end
+    100044: Man
+    100046: Man:Body
+    100048: Man:Eyebrow001
+    100050: Man:Low-poly
+    100052: Man:Male_elegantsuit01
+    100054: Man:Shoes03
+    100056: Man:Short01
+    100058: Man:Teeth_base
+    100060: Neck
+    100062: Neck1
+    100064: RHipJoint
+    100066: RightArm
+    100068: RightFingerBase
+    100070: RightFoot
+    100072: RightForeArm
+    100074: RightHand
+    100076: RightHandFinger1
+    100078: RightHandFinger1_end
+    100080: RightLeg
+    100082: RightShoulder
+    100084: RightToeBase
+    100086: RightToeBase_end
+    100088: RightUpLeg
+    100090: RThumb
+    100092: RThumb_end
+    100094: Spine
+    100096: Spine1
+    400000: Camera
+    400002: //RootNode
+    400004: Head
+    400006: Head_end
+    400008: Hips
+    400010: Lamp
+    400012: LeftArm
+    400014: LeftFingerBase
+    400016: LeftFoot
+    400018: LeftForeArm
+    400020: LeftHand
+    400022: LeftHandFinger1
+    400024: LeftHandFinger1_end
+    400026: LeftLeg
+    400028: LeftShoulder
+    400030: LeftToeBase
+    400032: LeftToeBase_end
+    400034: LeftUpLeg
+    400036: LHipJoint
+    400038: LowerBack
+    400040: LThumb
+    400042: LThumb_end
+    400044: Man
+    400046: Man:Body
+    400048: Man:Eyebrow001
+    400050: Man:Low-poly
+    400052: Man:Male_elegantsuit01
+    400054: Man:Shoes03
+    400056: Man:Short01
+    400058: Man:Teeth_base
+    400060: Neck
+    400062: Neck1
+    400064: RHipJoint
+    400066: RightArm
+    400068: RightFingerBase
+    400070: RightFoot
+    400072: RightForeArm
+    400074: RightHand
+    400076: RightHandFinger1
+    400078: RightHandFinger1_end
+    400080: RightLeg
+    400082: RightShoulder
+    400084: RightToeBase
+    400086: RightToeBase_end
+    400088: RightUpLeg
+    400090: RThumb
+    400092: RThumb_end
+    400094: Spine
+    400096: Spine1
+    2000000: Camera
+    2100000: Man_Shoes03_Shoes03
+    2100002: Man_Male_elegantsuit01_Male_elegantsuit01
+    2100004: Man_Teeth_base_Teethmaterial
+    2100006: Man_Eyebrow001_Eyebrow001
+    2100008: Man_Low-poly_Eye_brown
+    2100010: Man_Short01_Mhair01black
+    2100012: Man_Body_Young_caucasian_female2
+    4300000: Man:Shoes03
+    4300002: Man:Male_elegantsuit01
+    4300004: Man:Teeth_base
+    4300006: Man:Eyebrow001
+    4300008: Man:Low-poly
+    4300010: Man:Short01
+    4300012: Man:Body
+    7400000: Man|Man02_01
+    9500000: //RootNode
+    10800000: Lamp
+    13700000: Man:Body
+    13700002: Man:Eyebrow001
+    13700004: Man:Low-poly
+    13700006: Man:Male_elegantsuit01
+    13700008: Man:Shoes03
+    13700010: Man:Short01
+    13700012: Man:Teeth_base
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

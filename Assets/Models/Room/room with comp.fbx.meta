@@ -1,0 +1,174 @@
+fileFormatVersion: 2
+guid: 5e7ea69b623ec414cabcc0af6db96af0
+timeCreated: 1544566782
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Camera
+    100002: CTRL_Hole
+    100004: Cube
+    100006: Cube.001
+    100008: Cube.002
+    100010: Handle
+    100012: Handle.001
+    100014: Handle.002
+    100016: Handle.003
+    100018: Handle.004
+    100020: Handle.005
+    100022: Lamp
+    100024: Plane
+    100026: //RootNode
+    100028: Window.L
+    100030: Window.R
+    100032: Window_Group
+    100034: WindowFrame
+    100036: Windows_Sill
+    400000: Camera
+    400002: CTRL_Hole
+    400004: Cube
+    400006: Cube.001
+    400008: Cube.002
+    400010: Handle
+    400012: Handle.001
+    400014: Handle.002
+    400016: Handle.003
+    400018: Handle.004
+    400020: Handle.005
+    400022: Lamp
+    400024: Plane
+    400026: //RootNode
+    400028: Window.L
+    400030: Window.R
+    400032: Window_Group
+    400034: WindowFrame
+    400036: Windows_Sill
+    2000000: Camera
+    2100000: No Name
+    2100002: Material
+    2300000: CTRL_Hole
+    2300002: Cube
+    2300004: Cube.001
+    2300006: Cube.002
+    2300008: Handle
+    2300010: Handle.001
+    2300012: Handle.002
+    2300014: Handle.003
+    2300016: Handle.004
+    2300018: Handle.005
+    2300020: Plane
+    2300022: Window.L
+    2300024: Window.R
+    2300026: WindowFrame
+    2300028: Windows_Sill
+    3300000: CTRL_Hole
+    3300002: Cube
+    3300004: Cube.001
+    3300006: Cube.002
+    3300008: Handle
+    3300010: Handle.001
+    3300012: Handle.002
+    3300014: Handle.003
+    3300016: Handle.004
+    3300018: Handle.005
+    3300020: Plane
+    3300022: Window.L
+    3300024: Window.R
+    3300026: WindowFrame
+    3300028: Windows_Sill
+    4300000: Plane
+    4300002: Cube.002
+    4300004: Cube.001
+    4300006: CTRL_Hole
+    4300008: WindowFrame
+    4300010: Windows_Sill
+    4300012: Window.R
+    4300014: Handle.005
+    4300016: Window.L
+    4300018: Handle.004
+    4300020: Handle.003
+    4300022: Handle.002
+    4300024: Handle.001
+    4300026: Handle
+    4300028: Cube
+    10800000: Lamp
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
